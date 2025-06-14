@@ -1,1 +1,3 @@
 # TypeScript
+
+complete upto type
