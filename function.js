@@ -3,11 +3,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 function addTwoNumber(a, b) {
     return a + b;
 }
-console.log(addTwoNumber(2, 2));
+// console.log(addTwoNumber(2,2));
 function upperCase(str) {
     return str.toUpperCase();
 }
-console.log(upperCase('hello'));
+// console.log(upperCase('hello'));
 var removeSpace = function (str) {
     var result = '';
     var strArray = str.split('');
@@ -18,4 +18,3 @@ var removeSpace = function (str) {
     });
     return result;
 };
-console.log(removeSpace('hello world'));
