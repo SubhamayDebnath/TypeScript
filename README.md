@@ -1,3 +1,3 @@
 # TypeScript
 
-complete upto type
+complete upto array
